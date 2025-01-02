@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christopherlllobrera
 - 👀 I’m interested in building app that solves problem
 - 🌱 I’m currently learning Eloquent ORM
-- 📫 How to reach me llobrera@christopher@gmail.com
+- 📫 How to reach me llobrerachristopher@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to go to Gym
 
